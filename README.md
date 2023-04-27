@@ -19,4 +19,4 @@ Ao rodar o projeto, irá se deparar com login e senha, sendo eles:
 
 Após isso, o seu projeto estará rodando normalmente.
 
-**É importante destacar que para selecionar uma ação - Salvar, Deletar, Atualizar - é importante, após clicar em um livro, selecionar a opção Carregar. Pois assim não será gerado um ERRO inesperado!**
+**Para selecionar uma ação - Salvar, Deletar, Atualizar, etc - é importante, após clicar em um livro, selecionar a opção Carregar. Pois assim não será gerado um ERRO inesperado!**
